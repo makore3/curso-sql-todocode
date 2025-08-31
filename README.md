@@ -1,4 +1,4 @@
-# Curso SQL y Base de Datos TodoCode ☕
+# Curso SQL y Base de Datos TodoCode ⛁
 
 Este repositorio contiene todos los ejercicios que realicé durante el curso **"SQL y Base de Datos desde Cero" de TodoCode**.  
 
